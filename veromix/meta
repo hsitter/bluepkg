@@ -1,0 +1,4 @@
+{ 
+    :source => 'https://github.com/blue-shell/veromix',
+    :version => '1.0',
+}
